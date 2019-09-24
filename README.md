@@ -40,4 +40,4 @@ hugo
 
 ## Copyright and license
 
-Copyright 2009-2018 Christopher Guindon. All Rights Reserved. Code released under the [Eclipse Public License Version 2.0 (EPL-2.0)](https://github.com/chrisguindon/chrisguindon.github.io/blob/src/LICENSE).
+Copyright 2009-2019 Christopher Guindon. All Rights Reserved. Code released under the [Eclipse Public License Version 2.0 (EPL-2.0)](https://github.com/chrisguindon/chrisguindon.github.io/blob/src/LICENSE).
